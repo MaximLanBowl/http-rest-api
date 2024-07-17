@@ -4,7 +4,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/MaximLanBowl/http-rest-api.git/store"
+	"github.com/MaximLanBowl/http-rest-api.git/internal/app/store"
 	"github.com/gorilla/mux"
 	"github.com/sirupsen/logrus"
 )
